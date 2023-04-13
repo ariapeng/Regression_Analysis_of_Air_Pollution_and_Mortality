@@ -1,5 +1,5 @@
 # Regression_Analysis_of_Air_Pollution_and_Mortality
-Multiple linear regression analysis of air pollution an mortality using SAS
+Multiple linear regression analysis of air pollution and mortality using SAS
 
 The objective of this project is to seek to find the association between air pollution and mortality as well as to obtain a prediction equation for mortality as a function of the predictor variables. The dataset used is collected from 57 US cities.
 
